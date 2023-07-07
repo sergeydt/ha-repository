@@ -44,5 +44,7 @@
       "str"
     ]
   },
-  "image": "ghcr.io/hassio-addons/vscode/{arch}"
+  "image-old": "ghcr.io/hassio-addons/vscode/{arch}",
+  "image-v1": "docker.io/sergeydt/ha-vscode-{arch}",
+  "image": "hub.docker.com/r/sergeydt/ha-vscode-{arch}"
 }
