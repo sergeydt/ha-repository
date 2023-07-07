@@ -1,3 +1,10 @@
+# ----------------------------------------------------------------
+
+synology docker container terminal: supervisor
+file: /data/store.json
+original url:     "https://github.com/hassio-addons/repository",                                                                                
+
+
 # Home Assistant Community Add-ons
 
 ![Project Stage][project-stage-shield]
