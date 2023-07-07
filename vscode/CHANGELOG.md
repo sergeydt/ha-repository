@@ -1,11 +1,18 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## 🚀 Enhancements
 
-- 🚑 Update healthcheck command @sinclairpaul ([#669](https://github.com/hassio-addons/addon-vscode/pull/669))
+- 🏎 Enable streaming mode for Ingress @frenck (#306)
+
+## 🧰 Maintenance
+
+- 🚀 Add-on CI improvements @frenck (#302)
+
+## 📚 Documentation
+
+- 🚑 Fix contributing link in readme @frenck (#303)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update prettier/prettier-vscode to v9.19.0 @renovate ([#670](https://github.com/hassio-addons/addon-vscode/pull/670))
-- ⬆️ Update esphome to v2023.6.3 @renovate ([#668](https://github.com/hassio-addons/addon-vscode/pull/668))
-- ⬆️ Update esphome to v2023.6.4 @renovate ([#674](https://github.com/hassio-addons/addon-vscode/pull/674))
+- ⬆️ Upgrades add-on base image to v4.2.3 @frenck (#304)
+- ⬆️ Upgrades code-server to 3.11.1 @frenck (#305)
