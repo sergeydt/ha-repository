@@ -2,7 +2,10 @@
 
 synology docker container terminal: supervisor
 file: /data/store.json
-original url:     "https://github.com/hassio-addons/repository",                                                                                
+original url:     "https://github.com/hassio-addons/repository",                      
+
+alternate:     "https://github.com/sergeydt/ha-repository",                                                                                  
+
 
 
 # Home Assistant Community Add-ons
